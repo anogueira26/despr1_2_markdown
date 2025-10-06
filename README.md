@@ -1,6 +1,6 @@
 # 📋 Sistema de Gestión Escolar - CotareloManage
 
-# Un sistema completo para la gestión de centros educativos modernos.
+> Un sistema completo para la gestión de centros educativos modernos.
 
 ## 🎯 Descripción General
 
@@ -56,7 +56,7 @@ Donde:
 
 - t = tiempo en meses
 
-El ROI (Return on Investment) se calcula como:  
+El **ROI** (Return on Investment) se calcula como:  
 
 $$
 ROI = \frac{Beneficio - Inversión}{Inversión} \times 100
@@ -82,27 +82,26 @@ $$
 
 ## 📝 Lista de Tareas Pendientes
 
- Implementar sistema de login
+- [x] Implementar sistema de login
 
- Crear dashboard principal
+- [x] Crear dashboard principal
 
- Añadir módulo de calificaciones
+- [ ] Añadir módulo de **calificaciones**
 
- Integrar sistema de notificaciones
+- [ ] Integrar sistema de notificaciones
 
- Desarrollar app móvil
+- [ ] Desarrollar app móvil
 
- Implementar analytics avanzados
+- [ ] Implementar **analytics** avanzados
+
 
 ## 🤝 Contribuir al Proyecto
 
-Haz un fork del repositorio
-
-Crea una rama: git checkout -b nueva-funcionalidad
-
-Realiza tus cambios y haz commit
-
-Envía un Pull Request
+¿Quieres ayudar? ¡Genial! Sigue estos pasos:
+1. Haz un fork del repositorio
+2. Crea una rama para tu **feature**: git checkout -b nueva-funcionalidad
+3. Realiza tus cambios y haz commit
+4. Envía un **pull request**
 
 ## 📧 Contacto y Soporte
 
