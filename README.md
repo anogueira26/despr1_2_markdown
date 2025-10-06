@@ -43,7 +43,6 @@ La ecuación que modela nuestro crecimiento es:
 
 $$
 U(t) = U_0 \cdot e^{rt}
-
 $$
 
 Donde:
