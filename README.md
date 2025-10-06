@@ -105,15 +105,15 @@ $$
 
 ## 📧 Contacto y Soporte
 
-Email: soporte@CotareloManage.es
+- **Email**: soporte@CotareloManage.es
 
-Slack: cotarelomanage.slack.com
+- **Slack**: [Únete a nuestro workspace]()
 
-Documentación: docs.CotareloManage.es
+- **Documentación**: [docs.CotareloManage.es]()
 
 ## 📜 Licencia
 
-Proyecto bajo licencia MIT.
+Proyecto bajo licencia **MIT**.
 
 ---
 
@@ -145,10 +145,11 @@ Incluye la descripción del módulo y las **fórmulas matemáticas** en LaTeX.
 ¿Quieres que te genere **los cinco archivos Markdown completos listos para subir al repositorio** (`README.md`, `instalacion.md`, `login.md`, `dashboard.md`, `settings.md`)?  
 Así podrías copiarlos directamente a tu proyecto.
 
-Desarrollado con ❤️ por el equipo de CotareloManage.
+Desarrollado con ❤️ por el equipo de **CotareloManage** - Transformando la educación digital.
 
 ## Caracteres Especiales y Escapado
 Para mostrar caracteres especiales en Markdown:
+
 Asterisco literal: *no es cursiva*
 
 Almohadilla literal: # no es título
@@ -157,4 +158,4 @@ Barra invertida literal: \
 
 Backtick literal: `no es código`
 
-¡Gracias por usar CotareloManage! 🎓
+**¡Gracias por usar CotareloManage!** 🎓
