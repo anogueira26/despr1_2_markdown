@@ -112,37 +112,7 @@ $$
 
 ## 📜 Licencia
 
-Proyecto bajo licencia **MIT**.
-
----
-
-## ⚙️ `instalacion.md`
-Basado en :contentReference[oaicite:1]{index=1}  
-
-(Contiene comandos, pasos y Docker Compose con sintaxis Markdown).
-
----
-
-## 🔐 `login.md`
-Basado en :contentReference[oaicite:2]{index=2}  
-Incluye el **diagrama de secuencia** en Mermaid y la descripción de seguridad y usuarios.
-
----
-
-## 📊 `dashboard.md`
-Basado en :contentReference[oaicite:3]{index=3}  
-Incluye el **gráfico de sectores** y **gráfico de barras** Mermaid, además de la tabla de KPIs y roles con permisos JSON.
-
----
-
-## ⚙️ `settings.md`
-Basado en :contentReference[oaicite:4]{index=4}  
-Incluye la descripción del módulo y las **fórmulas matemáticas** en LaTeX.
-
----
-
-¿Quieres que te genere **los cinco archivos Markdown completos listos para subir al repositorio** (`README.md`, `instalacion.md`, `login.md`, `dashboard.md`, `settings.md`)?  
-Así podrías copiarlos directamente a tu proyecto.
+Proyecto bajo licencia **MIT**. Consulta el archivo LICENSE para más detalles.
 
 Desarrollado con ❤️ por el equipo de **CotareloManage** - Transformando la educación digital.
 
