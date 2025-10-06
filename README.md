@@ -1,6 +1,6 @@
 # 📋 Sistema de Gestión Escolar - CotareloManage
 
-Un sistema completo para la gestión de centros educativos modernos.
+# Un sistema completo para la gestión de centros educativos modernos.
 
 ## 🎯 Descripción General
 
@@ -41,38 +41,44 @@ I --> E;
 ## 📈 Crecimiento de Usuarios
 La ecuación que modela nuestro crecimiento es:
 
-                                      U (t) = U0 ⋅ ert
+$$
+U(t) = U_0 \cdot e^{rt}
+
+$$
 
 Donde:
 
-U (t) = usuarios en el tiempo t
+- U (t) = usuarios en el tiempo t
 
-U0 = usuarios iniciales (500)
+- U0 = usuarios iniciales (500)
 
-r = tasa de crecimiento (0.15 mensual)
+- r = tasa de crecimiento (0.15 mensual)
 
-t = tiempo en meses
+- t = tiempo en meses
 
-El ROI (Return on Investment) se calcula como: ROI = Ganancia−Inversión
-× 100%
+El ROI (Return on Investment) se calcula como:  
+
+$$
+ROI = \frac{Beneficio - Inversión}{Inversión} \times 100
+$$
 
 ## 🔧 Tecnologías Utilizadas
 
-Frontend:
+**Frontend**
 
-React.js v18.2.0
+- **React.js** v18.2.0
 
-Material-UI
+- Material-UI para componentes
 
-TypeScript
+- **TypeScript** para tipado estático
 
-Backend:
+**Backend**
 
-Node.js con Express
+- Node.js con Express
 
-MongoDB
+- **MongoDB** como base de datos
 
-JWT para autenticación
+- JWT para autenticación
 
 ## 📝 Lista de Tareas Pendientes
 
