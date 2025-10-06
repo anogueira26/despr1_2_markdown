@@ -1,6 +1,6 @@
 ## ⚙️ Configuración del Sistema - Settings
 
-# Panel de configuración avanzada para CotareloManage
+> Panel de configuración avanzada para CotareloManage
 
 ## 🎛️ Configuración General
 
@@ -50,3 +50,26 @@ $$
 NF = \frac{\sum_{i=1}^{n} (E_i \times P_i)}{\sum_{i=1}^{n} P_i}
 $$
 
+Donde:
+
+- NF = Nota Final
+
+- E_i = Evaluación
+
+- Pi= Peso de la evaluación
+
+- n = Número de evaluaciones
+
+Para asignaturas con evaluación continua:
+
+$$
+NC = 0.4 \times P1 + 0.4 \times P2 + 0.2 \times PF
+$$
+
+Siendo P1, P2 los parciales y PF la prueba final.
+
+>⚙️ Importante : Reinicia el sistema después de cambios críticos en la configuración.
+
+**¿Necesitas ayuda con la configuración?** Consulta nuestro centro de soporte o contacta aladministrador del istema.
+
+Configuración flexible para cada institución educativa
